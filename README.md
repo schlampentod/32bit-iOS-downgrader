@@ -1,4 +1,15 @@
 # 32bit-iOS-downgrader
+!!!!!!! THIS PROGRAM IS IN BETA !!!!!!!
+
+!!!!!!! THIS PROGRAM IS IN BETA !!!!!!!
+
+I AM NOT RESPONSIBLE IF THIS SCREWS UP YOUR DEVICE
+
+!!!!!!! THIS PROGRAM IS IN BETA !!!!!!!
+
+!!!!!!! THIS PROGRAM IS IN BETA !!!!!!!
+If the restore fails or something goes wrong please put your device into DFU mode and restore with iTunes
+
 This is a program made in python that downgrades your iOS device with shsh blobs
 
 I AM NOT RESPONSIBLE IF THIS SCREWS UP YOUR DEVICE
