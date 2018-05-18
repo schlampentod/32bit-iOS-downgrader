@@ -10,6 +10,7 @@ print ("                                              |___/                     
 print ("[Info] This program only works on the following 32bit iOS devices")
 print ("[Info] iPhone 4, 4S, 5, 5C, iPod Touch 4G, 5G, iPad 2, 3, 4, Mini 1st Gen")
 print ("[Info] The device needs to be in kDFU")
+print ("[Info] Made by iNyan600 and Lunarixus")
 
 #ask user for the path to the futurerestore executable (helps with multi platform support)
 executable_path = input("[User input] Path to futurerestore executable (eg. futurerestore_macos): ")
