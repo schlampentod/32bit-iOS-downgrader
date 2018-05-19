@@ -22,7 +22,7 @@ This program is only compatible with Mac but I will expand to Linux in the futur
 place futurerestore_macos in the same directory as downgrade.py
 https://github.com/tihmstar/futurerestore
 
-You also need to have python installed
+You also need to have python 3 installed
 https://www.python.org/downloads/mac-osx/
 
 To get started just open terminal and type ./downgrade.sh in the directory with the 32bit iOS downgrader application
